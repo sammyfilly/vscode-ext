@@ -839,7 +839,7 @@
     "@truffle/environment": "^0.2.130",
     "@truffle/fetch-and-compile": "^0.5.19",
     "@truffle/resolver": "^9.0.4",
-    "@truffle/workflow-compile": "^4.0.36",
+    "@truffle/workflow-compile": "^4.0.70",
     "@vscode/extension-telemetry": "^0.6.2",
     "abi-decoder": "^2.4.0",
     "acorn": "^8.7.1",
