@@ -837,7 +837,7 @@
     "@truffle/debug-utils": "^6.0.26",
     "@truffle/debugger": "^11.0.17",
     "@truffle/environment": "^0.2.130",
-    "@truffle/fetch-and-compile": "^0.5.19",
+    "@truffle/fetch-and-compile": "^0.5.55",
     "@truffle/resolver": "^9.0.4",
     "@truffle/workflow-compile": "^4.0.36",
     "@vscode/extension-telemetry": "^0.6.2",
