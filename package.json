@@ -842,7 +842,7 @@
     "@truffle/workflow-compile": "^4.0.36",
     "@vscode/extension-telemetry": "^0.6.2",
     "abi-decoder": "^2.4.0",
-    "acorn": "^8.7.1",
+    "acorn": "^8.11.3",
     "acorn-walk": "^8.2.0",
     "astring": "^1.7.5",
     "bip39": "^3.0.1",
